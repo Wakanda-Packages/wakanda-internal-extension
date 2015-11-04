@@ -1,0 +1,3 @@
+[submodule "wakanda-extension-web-editor"]
+	path = wakanda-extension-web-editor
+	url = git://github.com/Wakanda/wakanda-extension-web-editor.git
