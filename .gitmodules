@@ -4,3 +4,6 @@
 [submodule "Preferences"]
 	path = Preferences
 	url = https://github.com/Wakanda/Preferences
+[submodule "findInFiles"]
+	path = findInFiles
+	url = https://github.com/Wakanda/findInFiles
