@@ -1,3 +1,30 @@
 [submodule "wakanda-extension-web-editor"]
 	path = wakanda-extension-web-editor
 	url = git://github.com/Wakanda/wakanda-extension-web-editor.git
+[submodule "wakanda-extension-mobile-core"]
+	path = wakanda-extension-mobile-core
+	url = https://github.com/Wakanda/wakanda-extension-mobile-core
+[submodule "findInFiles"]
+	path = findInFiles
+	url = https://github.com/Wakanda/findInFiles
+[submodule "wakanda-extension-language-tools"]
+	path = wakanda-extension-language-tools
+	url = https://github.com/Wakanda/wakanda-extension-language-tools
+[submodule "Preferences"]
+	path = Preferences
+	url = https://github.com/Wakanda/Preferences
+[submodule "wakanda-extension-mobile-console"]
+	path = wakanda-extension-mobile-console
+	url = https://github.com/Wakanda/wakanda-extension-mobile-console
+[submodule "wakanda-extension-mobile-test"]
+	path = wakanda-extension-mobile-test
+	url = https://github.com/Wakanda/wakanda-extension-mobile-test
+[submodule "wakanda-extension-deploy"]
+	path = wakanda-extension-deploy
+	url = https://github.com/Wakanda/wakanda-extension-deploy
+[submodule "wakanda-extension-trouble-shooting"]
+	path = wakanda-extension-trouble-shooting
+	url = https://github.com/Wakanda/wakanda-extension-trouble-shooting
+[submodule "git"]
+	path = git
+	url = https://github.com/Wakanda/git
