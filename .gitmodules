@@ -28,3 +28,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/Wakanda/git
+[submodule "wakanda-extension-templates"]
+	path = wakanda-extension-templates
+	url = https://github.com/Wakanda/wakanda-extension-templates
